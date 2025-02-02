@@ -44,6 +44,12 @@ https://drive.google.com/file/d/170_mqczAf31MG_R_aq7ojeS2yBLLRA93/view?usp=shari
   <img src="screenshots/Applicationvideo.gif">
 </p>
 
+<img src='screenshots/Screenshot 2568-02-02 at 10.01.42 PM.png' width=800>
+
+<img src='screenshots/Screenshot 2568-02-02 at 10.01.54 PM.png' width=800>
+
+<img src='screenshots/Screenshot 2568-02-02 at 10.04.07 PM.png' width=800>
+
 ## Features
 - Text Generation visualization.
 - Simple and intuitive web interface.
