@@ -37,6 +37,8 @@ This application provides a user-friendly interface to interact with. Users can 
 ![Additive Attention](screenshots/additiveattention.png)
 
 ## Video of Working application:  
+https://drive.google.com/file/d/170_mqczAf31MG_R_aq7ojeS2yBLLRA93/view?usp=sharing 
+
 ![Description of GIF](screenshots/Applicationvideo.gif)
 
 ## Features
