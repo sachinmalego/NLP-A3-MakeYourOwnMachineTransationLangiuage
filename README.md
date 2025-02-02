@@ -1,5 +1,6 @@
 # NLP-A3-MakeYourOwnMachineTransationLangiuage
 Language Translation
+
 This repository contains the implementation of a web application for English to Nepali translation in natural language processing.
 Instead of using the default dictionary this repository contains the implementation of dataset from Hugginface which contains translation of Holy Bible translation.
 
@@ -11,10 +12,10 @@ This application provides a user-friendly interface to interact with. Users can 
 ## Result Table
 
 | Attention Mechanism      | Training Loss | Training PPL | Validation Loss | Validation PPL |
-|--------------------------|--------------|--------------|----------------|----------------|
-| **General Attention**    | 4.215        | 67.682      | 5.572          | 263.020        |
-| **Multiplicative Attention** | 4.272   | 71.640      | 5.615          | 274.463        |
-| **Additive Attention**   | 4.192        | 66.186      | 5.563          | 260.583        |
+|--------------------------|---------------|--------------|----------------|-----------------|
+| **General Attention**    | 4.215         | 67.682       | 5.572           | 263.020        |
+| **Multiplicative Attention** | 4.272     | 71.640       | 5.615           | 274.463        |
+| **Additive Attention**   | 4.192         | 66.186       | 5.563           | 260.583        |
 
 
 ## Performance Table
