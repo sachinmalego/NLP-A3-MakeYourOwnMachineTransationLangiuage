@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>English-to-Nepali Translator</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <header>
+        <div class="logo">
+            <h1><b>A3: Translator</b></h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="query_box">
+        <h3 class="web_title">English-to-Nepali Translator</h3>
+        <br>
+        <form action="/" method="POST">
+            <label for="Prompt">Prompt:</label>
+            <br>
+            <div class="prompt_inner">
+                <input type="text" name="prompt" id="fill_in" required="required">
+            </div>
+            <input id="submit" type="submit" value="Submit">
+        </form>
+    </div>
+    <h4 style="display: {{ show_text }}">Output:</h4>
+    <p style="display: {{ show_text }}">{{ output }}</p>
+</div>
+{% endblock %}

@@ -1,4 +1,7 @@
 .DS_Store
-dataset/test.csv
-dataset/train.csv
-dataset/valid.csv
+app/__pycache__
+app/pickle/additive_Seq2SeqTransformer.pt
+app/pickle/multiplicative_Seq2SeqTransformer.pt
+app/pickle/general_Seq2SeqTransformer.pt
+dataset/*
+.idea/*
