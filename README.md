@@ -41,6 +41,10 @@ https://drive.google.com/file/d/170_mqczAf31MG_R_aq7ojeS2yBLLRA93/view?usp=shari
 
 ![Description of GIF](screenshots/Applicationvideo.gif)
 
+<p align="center">
+  <img src="screenshots/Applicationvideo.gif" width="800">
+</p>
+
 ## Features
 - Text Generation visualization.
 - Simple and intuitive web interface.
