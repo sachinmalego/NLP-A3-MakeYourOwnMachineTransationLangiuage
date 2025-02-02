@@ -36,6 +36,9 @@ This application provides a user-friendly interface to interact with. Users can 
 
 ![Additive Attention](screenshots/additiveattention.png)
 
+## Video of Working application:  
+![Description of GIF](screenshots/Applicationvideo.gif)
+
 ## Features
 - Text Generation visualization.
 - Simple and intuitive web interface.
@@ -85,9 +88,6 @@ The web application allows you to:
 - `screenshots/`: Contains the screenshots and video of the working application.
 - `word_test`: Contains the word repo of provided dataset
 - For the `glove.6B.100d.txt` please download it from Kaggle or Google. It is readily available in the internet.
-
-## Video of Working application:  
-![Description of GIF](screenshots/Applicationvideo.gif)
 
 ## Contributing
 Contributions are welcome! To contribute:
